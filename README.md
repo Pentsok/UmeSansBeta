@@ -112,6 +112,6 @@ You can help with the UmeSansBeta development in several ways: test the fonts in
 - [Twitter]()
 - [Instagram]()
 - [Download (百度云盘 in Chinese)]()
-- [Tsaenya Techology]()
+- [Tsanya Technology]()
 - [Pentsok]()
 - [Dorje]()
