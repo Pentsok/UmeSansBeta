@@ -34,9 +34,9 @@ This section shares our summary and exploration of concepts and jargon related t
 |            |     	      |     	      |     	      |     |
 |Variation   |Display font |འཆར་ཡིག        |标题体          |2     |
 |            |Text font    |དཀྱུས་ཡིག     |正文体           |2    |
-|            |Serif        |     	      |线衬   	      |2    |
-|            |Serif typeface  |     	   |线衬体         |2    |
-|            |Sans-serif typeface|     	   |无线衬体       |2     |
+|            |Serif        |སྤྲོས་ལྡན།     	      |线衬   	      |2    |
+|            |Serif typeface |སྤྲོས་ལྡན་ཡིག་གཟུགས།    |线衬体         |2    |
+|            |Sans-serif typeface|སྤྲོས་མེད་ཡིག་གཟུགས། |无线衬体       |2     |
 |            |Weight     		 |ཤ་ཆེ་ཆུང་།     	    |字重 	      |2     |
 |            |Width     	   |ཡིག་ཞེང་།     	    |宽度     	  |2     |
 |            |Slant     	   |བསེག་ཚད།     	|倾斜度    	  |2     |
