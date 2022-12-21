@@ -28,7 +28,7 @@ This section shares our summary and exploration of concepts and jargon related t
 |            |Type design  |ཡིག་གཟུགས་ཇུས་འགོད། |字体设计        |3     |
 |            |Typeface		|ཡིག་གཟུགས།     	|字体     	      |2     |
 |            |Font family  	|ཡིག་གཟུགས་ཁྱིམ་རྒྱུད།  |字型家族         |2     |
-|            |Font			|ཡིག་གཟུགས།     	      |字型     	       |1     |
+|            |Font			|ཡིག་གཟུགས།     	      |字型     	       |2     |
 |            |Glyph 	      |ཡིག་འབྲུ།     	   |字形   	       |2     |
 |            |Calligraphy styles |ཡིག་ཚུགས།   |书法风格/书体    |2     |
 |            |     	      |     	      |     	      |     |
