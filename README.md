@@ -43,11 +43,11 @@ This section shares our summary and exploration of concepts and jargon related t
 |            |     	      |     	      |     	      |     |
 |Layout		 |Paragraph	  |ཚན་པ།     	      |段落     	      |3     |
 |            |Lorem Ipsum  |ཚབ་ཡིག     	 |假文	          |2     |
-|            |Kerning     |ཡིག་འབྲུའི་བར་ཐག   |字偶距     	  |2     |
+|            |Kerning     |ཡིག་འབྲུའི་འབྲེལ་འཚམས། |字偶距     	  |2     |
 |            |Font size   |ཡི་གེའི་ཆེ་ཆུང་།     |字号     	      |2     |
 |            |Leading     |ཡིག་ཕྲེང་བར་ཐག     |行高     	      |2     |
 |            |     	      |     	      |行距     	      |2     |
-|            |     	      |     	      |字距     	      |2     |
+|            |letter-spacing |ཡིག་འབྲུའི་བར་ཐག     |字距     	    |3     |
 |            |Indentation |ཡིག་མགོའི་བར་ཐག    |缩进     	      |2     |
 
 
