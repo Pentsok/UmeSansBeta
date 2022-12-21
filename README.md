@@ -71,9 +71,10 @@ More content TBD.
 |600 |SemiBold    |ཕྱེད་སྦོམ་བཙུར་མ།     |ཕྱེད་སྦོམ་བཙུར་ཙམ།    |**ཕྱེད་སྦོམ།**   |TBD        |
 |700 |Bold        |སྦོམ་པོ་བཙུར་མ།      |སྦོམ་པོ་བཙུར་ཙམ།     |**སྦོམ་པོ།**    |TBD        |
 |800 |ExtraBold   |ཤིན་ཏུ་སྦོམ་པོ་བཙུར་མ།   |ཤིན་ཏུ་སྦོམ་པོ་བཙུར་ཙམ།  |**ཤིན་ཏུ་སྦོམ་པོ།** |TBD        |
-|900 |Black       |ནག་པོ་བཙུར་མ།      |ནག་པོ་བཙུར་ཙམ།     |**ནག་པོ།**    |TBD        |
+|900 |Black       |ནག་བྲིས་བཙུར་མ།      |ནག་བྲིས་བཙུར་ཙམ།     |**ནག་བྲིས།**    |TBD        |
 
 > Proposed by Pentsok Whenggyel Rtsang
+> translation of "Black" Proposed by Dorji Dhondrup
 
 ### Related terminology in Graphic design & front-end development
 
@@ -85,7 +86,7 @@ More content TBD.
 |Usability      |Usability     |བཀོལ་བདེ་མིན།   | 易用性          |2       |
 |               |legibility    |ཀློག་བདེ་མིན།    | 易读性   |2           |
 |               |             |          |          |           |
-|Front-end development|Front-end development |གསར་སྤེལ་སྔོན།               |前端开发      |2        |
+|Front-end development|Front-end development |གསར་སྤེལ་སྔོན། |前端开发      |2        |
 |               |          |          |          |           |
 |               |          |          |          |           |
 |               |          |          |          |           |
